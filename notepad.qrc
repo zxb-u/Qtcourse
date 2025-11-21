@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/copy.jpg</file>
+        <file>img/cut.jpg</file>
+        <file>img/find.jpg</file>
+        <file>img/font.jpg</file>
+        <file>img/goto.jpg</file>
+        <file>img/line.jpg</file>
+        <file>img/logo.jpg</file>
+        <file>img/new.jpg</file>
+        <file>img/open.jpg</file>
+        <file>img/paste.jpg</file>
+        <file>img/print.jpg</file>
+        <file>img/redo.jpg</file>
+        <file>img/replace.jpg</file>
+        <file>img/save.jpg</file>
+        <file>img/saveas.jpg</file>
+        <file>img/setting.jpg</file>
+        <file>img/status.jpg</file>
+        <file>img/tool.jpg</file>
+        <file>img/undo.jpg</file>
+        <file>img/wrap.jpg</file>
+        <file>image2/arrow-go-back-line.png</file>
+        <file>image2/arrow-go-forward-line.png</file>
+        <file>image2/bar-chart-fill.png</file>
+        <file>image2/clipboard-fill.png</file>
+        <file>image2/file-add-line.png</file>
+        <file>image2/file-copy-2-line.png</file>
+        <file>image2/file-search-fill.png</file>
+        <file>image2/folder-open-fill.png</file>
+        <file>image2/refresh-line.png</file>
+        <file>image2/save-line.png</file>
+        <file>image2/scissors-2-fill.png</file>
+        <file>image2/t-box-fill.png</file>
+        <file>image2/text-wrap.png</file>
+        <file>image2/tools-fill.png</file>
+    </qresource>
+</RCC>
