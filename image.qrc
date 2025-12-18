@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../Documents/imge/Chevron_left.png</file>
+        <file>../../../Documents/imge/Login.png</file>
+        <file>../../../Documents/imge/Logout.png</file>
+        <file>../../../Documents/imge/Search.png</file>
+        <file>../../../Documents/imge/Delete.png</file>
+        <file>../../../Documents/imge/Add.png</file>
+        <file>../../../Documents/imge/Edit.png</file>
+    </qresource>
+</RCC>
